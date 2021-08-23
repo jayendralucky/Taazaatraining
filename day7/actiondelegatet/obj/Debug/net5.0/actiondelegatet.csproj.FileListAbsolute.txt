@@ -1,0 +1,16 @@
+C:\day7\actiondelegatet\bin\Debug\net5.0\actiondelegatet.exe
+C:\day7\actiondelegatet\bin\Debug\net5.0\actiondelegatet.deps.json
+C:\day7\actiondelegatet\bin\Debug\net5.0\actiondelegatet.runtimeconfig.json
+C:\day7\actiondelegatet\bin\Debug\net5.0\actiondelegatet.runtimeconfig.dev.json
+C:\day7\actiondelegatet\bin\Debug\net5.0\actiondelegatet.dll
+C:\day7\actiondelegatet\bin\Debug\net5.0\ref\actiondelegatet.dll
+C:\day7\actiondelegatet\bin\Debug\net5.0\actiondelegatet.pdb
+C:\day7\actiondelegatet\obj\Debug\net5.0\actiondelegatet.csproj.AssemblyReference.cache
+C:\day7\actiondelegatet\obj\Debug\net5.0\actiondelegatet.GeneratedMSBuildEditorConfig.editorconfig
+C:\day7\actiondelegatet\obj\Debug\net5.0\actiondelegatet.AssemblyInfoInputs.cache
+C:\day7\actiondelegatet\obj\Debug\net5.0\actiondelegatet.AssemblyInfo.cs
+C:\day7\actiondelegatet\obj\Debug\net5.0\actiondelegatet.csproj.CoreCompileInputs.cache
+C:\day7\actiondelegatet\obj\Debug\net5.0\actiondelegatet.dll
+C:\day7\actiondelegatet\obj\Debug\net5.0\ref\actiondelegatet.dll
+C:\day7\actiondelegatet\obj\Debug\net5.0\actiondelegatet.pdb
+C:\day7\actiondelegatet\obj\Debug\net5.0\actiondelegatet.genruntimeconfig.cache

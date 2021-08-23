@@ -1,0 +1,16 @@
+C:\day7\assignmentpractice\bin\Debug\net5.0\assignmentpractice.exe
+C:\day7\assignmentpractice\bin\Debug\net5.0\assignmentpractice.deps.json
+C:\day7\assignmentpractice\bin\Debug\net5.0\assignmentpractice.runtimeconfig.json
+C:\day7\assignmentpractice\bin\Debug\net5.0\assignmentpractice.runtimeconfig.dev.json
+C:\day7\assignmentpractice\bin\Debug\net5.0\assignmentpractice.dll
+C:\day7\assignmentpractice\bin\Debug\net5.0\ref\assignmentpractice.dll
+C:\day7\assignmentpractice\bin\Debug\net5.0\assignmentpractice.pdb
+C:\day7\assignmentpractice\obj\Debug\net5.0\assignmentpractice.csproj.AssemblyReference.cache
+C:\day7\assignmentpractice\obj\Debug\net5.0\assignmentpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\day7\assignmentpractice\obj\Debug\net5.0\assignmentpractice.AssemblyInfoInputs.cache
+C:\day7\assignmentpractice\obj\Debug\net5.0\assignmentpractice.AssemblyInfo.cs
+C:\day7\assignmentpractice\obj\Debug\net5.0\assignmentpractice.csproj.CoreCompileInputs.cache
+C:\day7\assignmentpractice\obj\Debug\net5.0\assignmentpractice.dll
+C:\day7\assignmentpractice\obj\Debug\net5.0\ref\assignmentpractice.dll
+C:\day7\assignmentpractice\obj\Debug\net5.0\assignmentpractice.pdb
+C:\day7\assignmentpractice\obj\Debug\net5.0\assignmentpractice.genruntimeconfig.cache

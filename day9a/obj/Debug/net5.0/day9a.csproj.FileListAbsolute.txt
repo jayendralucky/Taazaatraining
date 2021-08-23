@@ -1,0 +1,16 @@
+C:\day9a\bin\Debug\net5.0\day9a.exe
+C:\day9a\bin\Debug\net5.0\day9a.deps.json
+C:\day9a\bin\Debug\net5.0\day9a.runtimeconfig.json
+C:\day9a\bin\Debug\net5.0\day9a.runtimeconfig.dev.json
+C:\day9a\bin\Debug\net5.0\day9a.dll
+C:\day9a\bin\Debug\net5.0\ref\day9a.dll
+C:\day9a\bin\Debug\net5.0\day9a.pdb
+C:\day9a\obj\Debug\net5.0\day9a.csproj.AssemblyReference.cache
+C:\day9a\obj\Debug\net5.0\day9a.GeneratedMSBuildEditorConfig.editorconfig
+C:\day9a\obj\Debug\net5.0\day9a.AssemblyInfoInputs.cache
+C:\day9a\obj\Debug\net5.0\day9a.AssemblyInfo.cs
+C:\day9a\obj\Debug\net5.0\day9a.csproj.CoreCompileInputs.cache
+C:\day9a\obj\Debug\net5.0\day9a.dll
+C:\day9a\obj\Debug\net5.0\ref\day9a.dll
+C:\day9a\obj\Debug\net5.0\day9a.pdb
+C:\day9a\obj\Debug\net5.0\day9a.genruntimeconfig.cache
